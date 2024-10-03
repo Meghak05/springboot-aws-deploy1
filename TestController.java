@@ -1,6 +1,5 @@
 package com.example.springbootawsdeploy;
 
-@RestController
 
-public class TestController {
+class TestController {
 }
